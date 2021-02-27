@@ -6,7 +6,7 @@ git status
 //Copie des fichiers
 git remote add origin https://github.com/ola330/wd_2021.git
 git add .
-git commit -m "Un commentaire"
+git commit -m "web_design_2021"
 git branch UserNameGIt
 git checkout UserNameGit
 git status
